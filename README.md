@@ -1,1 +1,1 @@
-# wrl-kist.github.io
+# wrlab.github.io
